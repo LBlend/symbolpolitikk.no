@@ -1,4 +1,3 @@
-# Symbolpolitikk.no
 Når ordentlig politikk blir for vanskelig.
 
 ## Liste
